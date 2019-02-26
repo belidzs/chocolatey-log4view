@@ -14,6 +14,7 @@
     <licenseUrl>http://www.log4view.com/pricing/license-content/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>http://www.log4view.com/fileadmin/user_upload/Log4ViewHelp/webframe.html</docsUrl>
+    <releaseNotes>http://www.log4view.com/features-usage/whats-new/</releaseNotes>
     <tags>log4view logging</tags>
     <summary>LOG4VIEW is the powerful log viewer for log4net, NLog and log4j</summary>
     <description>It can help you to locate critical sequences, find bugs and identify performance issues. Powerful filtering techniques allow you to quickly strip down millions of log messages to the extract you are currently interested in. Support engineers can find user-reported issues within seconds while developers still have access to the full scope of log messages.
