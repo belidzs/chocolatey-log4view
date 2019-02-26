@@ -9,7 +9,7 @@
     <title>log4view (Install)</title>
     <authors>PROSA GmbH</authors>
     <projectUrl>http://www.log4view.com/</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/belidzs/chocolatey-log4view@master/icons/Log4View.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/belidzs/chocolatey-log4view/icons/Log4View.png</iconUrl>
     <copyright>2019 PROSA GmbH</copyright>
     <licenseUrl>http://www.log4view.com/pricing/license-content/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
