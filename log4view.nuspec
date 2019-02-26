@@ -17,17 +17,19 @@
     <releaseNotes>http://www.log4view.com/features-usage/whats-new/</releaseNotes>
     <tags>log4view logging</tags>
     <summary>LOG4VIEW is the powerful log viewer for log4net, NLog and log4j</summary>
-    <description>It can help you to locate critical sequences, find bugs and identify performance issues. Powerful filtering techniques allow you to quickly strip down millions of log messages to the extract you are currently interested in. Support engineers can find user-reported issues within seconds while developers still have access to the full scope of log messages.
+    <description>##LOG4VIEW is the powerful log viewer for log4net, NLog and log4j
 
-# Use the standard logging frameworks log4net and log4j in your .NET and Java based applications
+It can help you to locate critical sequences, find bugs and identify performance issues. Powerful filtering techniques allow you to quickly strip down millions of log messages to the extract you are currently interested in. Support engineers can find user-reported issues within seconds while developers still have access to the full scope of log messages.
+
+### Use the standard logging frameworks log4net and log4j in your .NET and Java based applications
 
 LOG4VIEW is designed to work with log4net and log4j, the common logging frameworks for managed applications. Using these open source frameworks keeps your development team flexible and independent.
 
-# Monitor your distributed and multi-threaded applications in real-time
+### Monitor your distributed and multi-threaded applications in real-time
 
 LOG4VIEW visualizes log4net and log4j output from local applications and also connects to distributed and remote applications. Log messages of separate applications can be shown in different windows or be consolidated in a single view to understand the complex interactions of interconnected applications.
 
-# Quickly inspect log files from customers and locate user-reported issues
+### Quickly inspect log files from customers and locate user-reported issues
 
 LOG4VIEW is able to read a group of consecutive log files all at once and can process several hundred thousand log messages very quickly. Simple and powerful filter techniques facilitate the selection of the relevant log messages. Predefined and configurable colors turn your attention to the relevant items.</description>
   </metadata>
