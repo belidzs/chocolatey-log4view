@@ -3,4 +3,6 @@ VERIFICATION
 Verification is intended to assist the Chocolatey moderators and community
 in verifying that this package's contents are trustworthy.
  
-Download http://www.log4view.com/fileadmin/user_upload/log4view/Log4ViewSetup.exe and compare SHA256 hash. Binary was only included because there was no direct link to a specific version and a new installer on the same link would break the package.
+Download http://www.log4view.com/fileadmin/user_upload/log4view/Log4ViewSetup.exe and 
+compare SHA256 hash. Binary was only included because there was no direct link 
+to a specific version and a new installer on the same link would break the package.

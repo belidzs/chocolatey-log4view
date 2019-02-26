@@ -1,5 +1,4 @@
-﻿
-$ErrorActionPreference = 'Stop';
+﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $fileLocation = Join-Path $toolsDir 'Log4ViewSetup.exe'
 
@@ -20,22 +19,3 @@ $packageArgs = @{
 }
 
 Install-ChocolateyInstallPackage @packageArgs
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
