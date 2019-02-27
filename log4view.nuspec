@@ -33,7 +33,8 @@ LOG4VIEW visualizes log4net and log4j output from local applications and also co
 
 LOG4VIEW is able to read a group of consecutive log files all at once and can process several hundred thousand log messages very quickly. Simple and powerful filter techniques facilitate the selection of the relevant log messages. Predefined and configurable colors turn your attention to the relevant items.</description>
     <dependencies>
-      <dependency id="dotnetfx" version="4.6.2" />
+      <!-- website claims 4.6, but ILSpy revealed it's targeted against 4.7.1 -->
+      <dependency id="dotnetfx" version="4.7.1" />
     </dependencies>
   </metadata>
   <files>
