@@ -3,10 +3,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>log4view</id>
-    <version>1.4.3</version>
+    <version>1.4.4.1461</version>
     <packageSourceUrl>https://github.com/belidzs/chocolatey-log4view/</packageSourceUrl>
     <owners>belidzs</owners>
-    <title>log4view (Install)</title>
+    <title>Log4View (Install)</title>
     <authors>PROSA GmbH</authors>
     <projectUrl>http://www.log4view.com/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/belidzs/chocolatey-log4view/icons/Log4View.png</iconUrl>
