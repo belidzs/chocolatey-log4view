@@ -10,10 +10,6 @@ $packageArgs = @{
 
   softwareName  = 'log4view*'
 
-  checksum      = '3725244d93baabf7bfbf2d4d7a60ef282652d8c725536d85f281f106b8d4985a'
-  checksumType  = 'sha256'
-
-
   validExitCodes= @(0, 3010, 1641)
   silentArgs   = '/S'
 }
